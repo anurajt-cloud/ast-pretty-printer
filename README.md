@@ -25,7 +25,7 @@ equals sign between them.
 
 This function would be similar to ppStencilDef and would also use ppArgDeclType to get the
 type and ppArgName to get the name of the argument declaration. The string representation
-would have <argName> :: <argType>.
+would have <\argName> :: <\argType>.
 
 ##### ppFSig, ppLHSExpr, ppRHSExpr
 
